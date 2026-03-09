@@ -1,4 +1,4 @@
-name: 'dbt'
+name: 'tanisha_dbt_new'
 version: '1.0'
 config-version: 2
 
@@ -7,5 +7,5 @@ profile: 'default'
 model-paths: ["models"]
 
 models:
-  dbt:
+  tanisha_dbt_new:
     materialized: table
